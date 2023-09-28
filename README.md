@@ -11,9 +11,9 @@ Esta é uma aplicação simples de agendamento de consultas desenvolvida em Node
 
 Certifique-se de ter as seguintes ferramentas instaladas em seu sistema:
 
-- Node.js
-- npm (gerenciador de pacotes do Node.js)
-- TypeScript
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/) (gerenciador de pacotes do Node.js)
+- [TypeScript](https://www.typescriptlang.org/)
   
 <h2>Como Usar</h2>
 
