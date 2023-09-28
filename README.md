@@ -22,13 +22,13 @@ Siga estas etapas para copiar e executar a aplicação em sua máquina:
 1. Clone este repositório para o seu sistema local:
 
 ```
-git clone https://github.com/seu-usuario/agendamento-consulta-api.git
+git clone git@github.com:Prdsilva80/agendamento-back.git
 
 ```
 2. Navegue até o diretório do projeto:
 
 ````
-cd agendamento-consulta-api
+cd agendamento-back
 
 ````
 3. Instale as dependências do projeto:
